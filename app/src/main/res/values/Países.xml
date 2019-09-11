@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_paises">
+        <item>Nacionalidad</item>
+        <item>Perú</item>
+        <item>Brasil</item>
+        <item>Bolivia</item>
+        <item>Argentina</item>
+        <item>Chile</item>
+    </string-array>
+</resources>
